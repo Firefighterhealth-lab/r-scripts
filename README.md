@@ -1,9 +1,9 @@
 # r-scripts
 Shared R scripts and workflows for reproducible analysis in exposure-associated multi-omics (EAMO).
 
-### [Emergency Fire Smoke Exposure and Epigenome-Wide DNA Methylation Changes in Firefighters]
+### [Association Study of Urine, Wipe and Air for Texas' Firefighters](https://github.com/Quanjiang801/Association-study-uwa)
 
-([https://github.com/Quanjiang801/Emergency-Fire-Smoke-Exposure-and-Epigenome-Wide-DNA-Methylation-Changes-in-Firefighters](https://github.com/Quanjiang801/DNA_Methylation_of_Firefighter))
+### [Emergency Fire Smoke Exposure and Epigenome-Wide DNA Methylation Changes in Firefighters](https://github.com/Quanjiang801/DNA_Methylation_of_Firefighter)
 
 
 ### [Potential Impact of Neurotoxicant Exposure  During Fire Suppression on Firefighter Mental Health](https://github.com/JingyuClaire/Firefighter-Neurotoxicant-Study)
